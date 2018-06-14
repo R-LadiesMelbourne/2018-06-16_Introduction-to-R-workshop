@@ -1,0 +1,19 @@
+---
+title: "R-Ladies Melbourne - Introduction to R"
+author: "Roxane Legaie & Adele Barugahare"
+date: "16th June 2018"
+output:
+  github_document:
+    toc: yes
+    toc_depth: 3
+  html_document:
+    toc: yes
+    toc_depth: 3
+linkcolor: magenta
+urlcolor: magenta
+---
+
+
+You can find the material for this tutorial on here http://cambiotraining.github.io/r-intro/. 
+
+
