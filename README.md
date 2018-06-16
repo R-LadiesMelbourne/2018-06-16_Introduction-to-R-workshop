@@ -3,4 +3,4 @@ R-Ladies Melbourne - Introduction to R
 Roxane Legaie & Adele Barugahare
 16th June 2018
 
-You can find the material for this tutorial on here <http://cambiotraining.github.io/r-intro/>.
+This workshop will teach the fundamentals of R and will be based on the introductory material from Cambridge University: <https://github.com/cambiotraining/r-intro>. The workshop went through Sessions: 1.1 to 1.4 (From "Intro" to "Plotting").
